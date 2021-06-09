@@ -1,0 +1,22 @@
+h1{
+    color:red;
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+.site-description{
+    display:flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
